@@ -26,11 +26,13 @@ Aggregator for RaspberryPi resources/images
   - SSH
     - Enable: https://volumio.github.io/docs/User_Manual/SSH.html
     - User/pass: volumio
+  - Spotify plugin: works by searching from "Browse"
         
 - Bluetooth Audio Receiver?
   - https://github.com/volumio/Volumio2/issues/795#issuecomment-355212218
   
 - https://shop.pimoroni.com/products/phat-dac
+- *https://thepihut.com/collections/raspberry-pi-audio*
 
 
 ## Maker shops
