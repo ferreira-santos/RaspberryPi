@@ -12,6 +12,9 @@ Aggregator for RaspberryPi resources/images
 
 ## Retropie
 - Retropie
+  - Official: https://retropie.org.uk/
+  - http://pipplware.pplware.pt/pipplware-6-1/
+  - ROMs in Network share: https://github.com/RetroPie/RetroPie-Setup/wiki/Running-ROMs-from-a-Network-Share
 - Arcade site
 
 ## Music/Audio
