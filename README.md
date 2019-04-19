@@ -3,8 +3,12 @@ Aggregator for RaspberryPi resources/images
 
 
 ## General purpose
-- Raspbian
-- Ubuntu
+- Raspbian and official: 
+  - https://www.raspberrypi.org/downloads/
+- Flash SD card / Format
+  - balenaEtcher: https://www.balena.io/etcher/
+  - Win32 Disk Imager: https://sourceforge.net/projects/win32diskimager/
+  - SD Memory Card Formatter: https://www.sdcard.org/downloads/formatter/
 
 ## Retropie
 - Retropie
