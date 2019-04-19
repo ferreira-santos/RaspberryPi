@@ -16,12 +16,13 @@ Aggregator for RaspberryPi resources/images
 
 ## Music/Audio
 - Pi musicbox
+
 - Volumio
   - https://volumio.github.io/docs/
   - SSH
-    - user: volumio
-    - password: volumio
-    
+    - Enable: https://volumio.github.io/docs/User_Manual/SSH.html
+    - User/pass: volumio
+        
 - Bluetooth Audio Receiver?
   - https://github.com/volumio/Volumio2/issues/795#issuecomment-355212218
   
