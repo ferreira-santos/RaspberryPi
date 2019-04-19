@@ -44,5 +44,6 @@ UK
 
 PT
 - Aquario.pt: https://www.aquario.pt/pt/produtos/robotica-e-kits-raspberry
+- https://www.electrofun.pt/
 - 
 
