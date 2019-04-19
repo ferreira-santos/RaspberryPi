@@ -33,3 +33,14 @@ Aggregator for RaspberryPi resources/images
 - https://shop.pimoroni.com/products/phat-dac
 
 
+## Maker shops
+- https://www.raspberrypi.org/products/
+
+UK
+- The Pi Hut: https://thepihut.com/
+- PiMori: https://shop.pimoroni.com/
+
+PT
+- Aquario.pt: https://www.aquario.pt/pt/produtos/robotica-e-kits-raspberry
+- 
+
