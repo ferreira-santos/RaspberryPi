@@ -13,6 +13,7 @@ Aggregator for RaspberryPi resources/images
 ## Music/Audio
 - Pi musicbox
 - Volumio
+  - https://volumio.github.io/docs/
   - SSH
     - user: volumio
     - password: volumio
