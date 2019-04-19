@@ -2,15 +2,18 @@
 Aggregator for RaspberryPi resources/images
 
 
-# General purpose
+## General purpose
 - Raspbian
 - Ubuntu
 
-# Retropie
+## Retropie
 - Retropie
 - Arcade site
 
-# Music/Audio
+## Music/Audio
 - Pi musicbox
 - Volumio
+  - SSH
+    - user: volumio
+    - password: volumio
 
