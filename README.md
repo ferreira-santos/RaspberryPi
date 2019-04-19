@@ -17,4 +17,7 @@ Aggregator for RaspberryPi resources/images
   - SSH
     - user: volumio
     - password: volumio
+    
+- https://shop.pimoroni.com/products/phat-dac
+
 
