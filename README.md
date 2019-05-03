@@ -23,6 +23,7 @@ Aggregator for RaspberryPi resources/images
 - Volumio
   - https://volumio.github.io/docs/
   - http://192.168.1.94/
+  - http://192.168.1.94/dev
   - SSH
     - Enable: https://volumio.github.io/docs/User_Manual/SSH.html
     - User/pass: volumio
