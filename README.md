@@ -32,6 +32,7 @@ Aggregator for RaspberryPi resources/images
 - Bluetooth Audio Receiver?
   - https://github.com/volumio/Volumio2/issues/795#issuecomment-355212218
   - Error during installation, use this fix: https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install/issues/129#issuecomment-396746954
+  - Prolly better fix for sudo installation errors: https://github.com/volumio/Volumio2/issues/795#issuecomment-426049831
   
 - https://shop.pimoroni.com/products/phat-dac
 - *https://thepihut.com/collections/raspberry-pi-audio*
